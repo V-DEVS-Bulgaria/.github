@@ -12,7 +12,7 @@ Our Website: **https://v-devs.online**
 * Instagram: https://instagram.com/vdevsbg
 * Discord: https://discord.v-devs.online
 * TikTok: https://www.tiktok.com/@vdevs_bulgaria
-
+* LinkedIn: https://www.linkedin.com/company/90220323/admin/
 
 ![Logo](https://www.v-devs.online/assets/img/logo.png)
 
